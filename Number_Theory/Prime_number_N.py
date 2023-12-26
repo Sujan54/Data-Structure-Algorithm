@@ -1,3 +1,5 @@
+# Check if a number is Prime ot not in Minimum Time
+# Time Complexity O(sqrt(n))
 from math import sqrt
 
 def isPrime(N):
